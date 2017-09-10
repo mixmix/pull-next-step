@@ -1,6 +1,6 @@
 {
   "name": "pull-next-step",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "a tiny lib for patchcore stream stepping",
   "main": "index.js",
   "dependencies": {
