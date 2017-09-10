@@ -1,0 +1,29 @@
+{
+  "name": "pull-next-step",
+  "version": "0.0.1",
+  "description": "a tiny lib for patchcore stream stepping",
+  "main": "index.js",
+  "dependencies": {
+    "lodash.get": "^4.4.2",
+    "pull-next": "^1.0.1",
+    "pull-stream": "^3.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmix/pull-next-step.git"
+  },
+  "keywords": [
+    "patchcore",
+    "pull-stream"
+  ],
+  "author": "mixmix",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mixmix/pull-next-step/issues"
+  },
+  "homepage": "https://github.com/mixmix/pull-next-step#readme"
+}
